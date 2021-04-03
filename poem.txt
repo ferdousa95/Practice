@@ -1,5 +1,9 @@
 This is simple file for practice using github and git
+
+The rainbow and the unicorn
 Green 
 Red 
 Blue
 Yellow
+
+And the unicorn...
