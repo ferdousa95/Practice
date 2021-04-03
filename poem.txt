@@ -1,1 +1,4 @@
 This is simple file for practice using github and git
+Green 
+Red 
+Blue
